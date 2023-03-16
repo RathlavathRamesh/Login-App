@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.but {
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 5px;
+  border-width: 0px;
+  height: 5vh;
+  width: 101px;
+}

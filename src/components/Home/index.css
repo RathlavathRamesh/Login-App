@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.homeContainer {
+  height: 50vh;
+  width: 50vw;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to Bottom, #2b2c49, #999bb9, #303150);
+}
